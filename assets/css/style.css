@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(109, 106, 106);
+    background-size: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.tm {
+    width: 900px;
+    border-style: groove;
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px;
+}
+
+.contato {
+    display: left;
+}
+
+.p1 {
+    padding-left: 100px;
+}
+
+.p2 {
+    padding-left: 52px;
+}
+
+.p3 {
+    padding-left: 15px;
+}
