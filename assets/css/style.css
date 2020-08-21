@@ -31,3 +31,8 @@ body {
 .p3 {
     padding-left: 15px;
 }
+
+.decoracao {
+    text-decoration: none;
+    color: rgb(35, 55, 126);
+}
